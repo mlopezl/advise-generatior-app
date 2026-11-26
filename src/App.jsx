@@ -1,8 +1,10 @@
+import AdviceContainer from "./components/AdviceContainer"
+
 function App() {
 
   return (
     <>
-      <h1 className="bg-red-500">Hola Mundo!</h1>
+      <AdviceContainer/>
     </>
   )
 }
