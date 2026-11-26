@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <AdviceContainer/>
+     <div className="font-Comissioner w-full min-h-screen bg-Blue-950 flex items-center justify-center">
+        <AdviceContainer/>
+     </div>
     </>
   )
 }

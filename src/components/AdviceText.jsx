@@ -1,6 +1,6 @@
 function AdviceText ({text}){
     return(
-        <p>{text}</p>
+        <p className="text-xl text-Blue-200">"{text}"</p>
     )
 }
 
